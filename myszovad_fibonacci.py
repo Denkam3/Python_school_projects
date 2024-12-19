@@ -12,6 +12,7 @@ while Fibonacci < 5000000:
     second_number = Fibonacci
     Fibonacci = first_number + second_number # next number
     if Fibonacci >= 5000000:
-        print(f"Súčet čísel je: {result}")
-    
-    
+        print(f"Súčet čísel je: {result}")  
+
+
+
